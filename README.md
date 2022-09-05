@@ -1,5 +1,4 @@
-# **Hi 👋, I'm `Zeynep`.** 
-
+<h1 align="center">Hi 👋, I'm **Zeynep**.</h1>
 ## I am a final year computer engineering undergraduate student. :computer:
 
 ### :small_red_triangle_down: I’m currently working on BKM
