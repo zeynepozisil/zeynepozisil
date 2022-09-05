@@ -7,7 +7,7 @@
 
 
 #### Connect with me:
-:point_right: https://www.linkedin.com/in/zeynepozisil 
+:point_right:https://www.linkedin.com/in/zeynepozisil 
 <!--
 **zeynepozisil/zeynepozisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
