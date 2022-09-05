@@ -42,16 +42,10 @@
 
 #### Stats about me:
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeynepozisil&show_icons=true&locale=en" alt="zeynepozisil" /></p>
-
-<br>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div align="center">
+<h1>:fire:My Streaks</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepozisil&theme=dark" alt="zeynepozisil" /></p>
+</div>
 
 
 <!--
