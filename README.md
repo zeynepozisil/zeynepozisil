@@ -1,4 +1,4 @@
-# **Hi 👋, I'm Zeynep.** 
+# **Hi 👋, I'm `Zeynep`.** 
 
 ## I am a final year computer engineering undergraduate student. :computer:
 
