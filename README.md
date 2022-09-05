@@ -1,7 +1,4 @@
-#
-                                                                
-                                                                
-###                                                                   Hi 👋, I'm Zeynep. :computer:
+# Hi 👋, I'm Zeynep. :computer:
 
 
 
