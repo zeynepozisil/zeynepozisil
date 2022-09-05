@@ -6,7 +6,7 @@
 - Data Warehouse and Business Intelligence (Intern)
 
 
-#### Connect with me:
+- 📫 How to reach me:
 <a href="https://www.linkedin.com/in/zeynepozisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperreha" height="30" width="40" /></a>
 
 #### Stats about me:
