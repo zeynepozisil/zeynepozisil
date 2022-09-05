@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepozisil&label=Profile%20views&color=0e75b6&style=flat" alt="alperrehayazgan" /> </p>
 <h3 align="left">I am a final year computer engineering undergraduate student. :computer:</h3>
 
 - 🔭 I’m currently working on [BKM](https://bkm.com.tr/)
