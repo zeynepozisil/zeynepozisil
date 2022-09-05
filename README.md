@@ -42,11 +42,7 @@
 
 #### Stats about me:
 
-<div align="center">
-<h1>:fire:My Streaks</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepozisil&theme=dark" alt="zeynepozisil" /></p>
-</div>
-
+<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepozisil&layout=compact&theme=vision-friendly-dark" alt="zeynepozisil" /></p>
 
 <!--
 **zeynepozisil/zeynepozisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
