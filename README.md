@@ -42,7 +42,7 @@
 
 #### Stats about me:
 
-<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepozisil&layout=compact&theme=vision-friendly-dark" alt="zeynepozisil" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=zeynepozisil&show_icons=true&theme=radical" alt="zeynepozisil" /></p>
 
 <!--
 **zeynepozisil/zeynepozisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
