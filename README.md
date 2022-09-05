@@ -8,6 +8,31 @@
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/zeynepozisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperreha" height="30" width="40" /></a>
+
+#### Stats about me:
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeynepozisil&show_icons=true&locale=en" alt="zeynepozisil" /></p>
+
+<br>  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepozisil&show_icons=true&locale=en&layout=compact" alt="zeynepozisil" /></p> 
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!--
 **zeynepozisil/zeynepozisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
