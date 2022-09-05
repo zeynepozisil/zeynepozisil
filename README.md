@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep.</h1>
-## I am a final year computer engineering undergraduate student. :computer:
+<h3 align="left">I am a final year computer engineering undergraduate student. :computer:</h3>
 
 ### :small_red_triangle_down: I’m currently working on BKM
 #### -Data Warehouse and Business Intelligence (Intern)
