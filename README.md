@@ -3,7 +3,7 @@
 <h3 align="left">I am a final year computer engineering undergraduate student. :computer:</h3>
 
 - 🔭 I’m currently working on [BKM](https://bkm.com.tr/)
-- Data Warehouse and Business Intelligence (Intern)
+### Data Warehouse and Business Intelligence (Intern)
 
 
 - 📫 How to reach me:
