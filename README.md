@@ -2,7 +2,7 @@
 
 ## I am a final year computer engineering undergraduate student. :computer:
 
-### I’m currently working on BKM
+### :small_red_triangle_down: I’m currently working on BKM
 #### Data Warehouse and Business Intelligence (Intern)
 
 
