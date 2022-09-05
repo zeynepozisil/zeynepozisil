@@ -1,6 +1,9 @@
 # Hi 👋, I'm Zeynep. 
+
 ## I am a final year computer engineering undergraduate student. :computer:
 
+### - 🔭 I’m currently working on BKM
+#### Data Warehouse and Business Intelligence (Intern)
 
 <!--
 **zeynepozisil/zeynepozisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
