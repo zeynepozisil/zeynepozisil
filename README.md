@@ -6,9 +6,11 @@
 - Data Warehouse and Business Intelligence Intern
 
 ### 📫 How to reach me:
-<p align="left">
-<a href="https://www.linkedin.com/in/zeynepozisil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperreha" height="30" width="40" /></a>
-</p> 
+- **Mail:** https://www.numpy.org
+- **Linkedln:** https://www.linkedin.com/in/zeynepozisil
+- **Twitter:** https://twitter.com/zeynepozisil
+- **Kaggle:** https://www.kaggle.com/zeynepozisil
+- **Medium:** https://medium.com/@zeynepozisil
 
 ### 📋 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
