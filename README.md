@@ -6,7 +6,6 @@
 - Data Warehouse and Business Intelligence Intern
 
 ### 📫 How to reach me:
-- **Mail:** https://www.numpy.org
 - **Linkedln:** https://www.linkedin.com/in/zeynepozisil
 - **Twitter:** https://twitter.com/zeynepozisil
 - **Kaggle:** https://www.kaggle.com/zeynepozisil
